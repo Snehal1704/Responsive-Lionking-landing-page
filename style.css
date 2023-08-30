@@ -178,29 +178,8 @@ header .container {
   align-items: center;
   justify-content: center;
 }
-
-.big-title {
-  font-size: 1.4rem;
-  color: var(--darkOne);
-  text-transform: capitalize;
-  line-height: 1.4;
-}
-
-.text {
-  color: var(--lightOne);
-  font-size: 1.1rem;
-  margin: 1.9rem 0 2.5rem;
-  max-width: 600px;
-  line-height: 2.3;
-}
-
 .showcase-area .btn {
   box-shadow: 0 0 40px 2px rgba(0, 0, 0, 0.05);
-}
-
-.person {
-  width: 123%;
-  transform: translate(15%, 25px);
 }
 
 .toggle-btn {
